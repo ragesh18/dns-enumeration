@@ -59,7 +59,7 @@ pip3 install dnspython
 ```
 ### 2️⃣ Run the Script
 ```bash
-python3 dns_recon.py
+python3 dns_enu__.py
 ```
 
 ### 3️⃣ Provide Input When Prompted
